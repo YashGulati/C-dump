@@ -1,0 +1,3 @@
+It looks like you're not connected to the Internet. Let Windows try to help you fix the problem. In the search the box on the taskbar, enter Network troubleshooter, then select Identify and repair network problems. 
+
+If that doesn't work and you're using the a wired connection, make sure both ends of your Ethernet cable are securely plugged in to your PC and your router or modem. 
